@@ -43,9 +43,9 @@ insert into Classes values ('cavaleiro','caracteristicas')
 insert into Classes values ('Barbaro', 'caracteristicas')
 insert into Habilidades values ('Recuperar Vida', 'Descricao'),('lança mortal','Descricao de lança mortal'),('Escudo Supremo','')
 
-insert into Personagens values ('P1',1,1)
+insert into Personagens values ('Debug',1,1)
 insert into ClassesHabilidades values (1,2),(1,1)
-insert into Personagens values ('P2',2,2)
+insert into Personagens values ('Kill3R',2,2)
 insert into ClassesHAbilidades values (2,3), (2,1)
 --modifica
 update Usuarios set senha = '234' where IdUsuario = 1
